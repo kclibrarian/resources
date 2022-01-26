@@ -8,3 +8,11 @@
   * LeetCode Easy Videos: https://www.youtube.com/playlist?list=PLi9RQVmJD2fZxMEHWe4u1Yq86eHEZzS2m
   
   * 
+
+ # Places to Practicxe
+ 
+ <ul>
+  * Codewars: https://www.codewars.com/
+  * Edabit: https://edabit.com/
+  * Regex One: https://regexone.com/
+  
